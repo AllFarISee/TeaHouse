@@ -225,44 +225,38 @@ http://localhost:5173
 
 ### Product
 
-> Tambahkan screenshot halaman Product.
+<img width="671" height="441" alt="Products" src="https://github.com/user-attachments/assets/685688ac-2864-4d2d-a05a-0a0d9b71a527" />
 
 ---
 
 ### Dashboard Admin
 
-> Tambahkan screenshot Dashboard.
+<img width="671" height="442" alt="Dashboard info" src="https://github.com/user-attachments/assets/5b045d46-e09c-4bad-b094-518d6f4dd826" />
 
 ---
 
 ### CRUD Category
 
-> Tambahkan screenshot Category.
+<img width="673" height="442" alt="Category Management" src="https://github.com/user-attachments/assets/f787d9fb-2d90-44ef-8f44-d4b6174b312d" />
 
 ---
 
 ### CRUD Product
 
-> Tambahkan screenshot Product.
+<img width="673" height="443" alt="Product Management" src="https://github.com/user-attachments/assets/0cac3bd8-96ad-4dd9-b01f-5999f39e4551" />
 
 ---
 
-## 🎯 Tujuan Aplikasi
+## Tujuan Aplikasi
 
 Aplikasi TeaHouse dibuat untuk mempermudah pengelolaan data produk teh dan kategori produk secara digital. Selain itu, aplikasi ini memberikan pengalaman bagi pengguna untuk melihat daftar produk dengan tampilan yang sederhana, responsif, dan mudah digunakan.
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Nama :** Alfarisi Azhar
 
 **Mata Kuliah :** Pemrograman Web 2
 
 **Tahun :** 2026
-
----
-
-## 📄 License
-
-Project ini dibuat untuk keperluan pembelajaran dan tugas mata kuliah Pemrograman Web 2.
