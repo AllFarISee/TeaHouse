@@ -7,8 +7,11 @@ TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas Ujian Ak
 ## Profile
 
 **Nama :** Alfarisi Azhar
+
 **NIM :** 23552011180
+
 **Kelas :** TIF K 23 B
+
 **Mata Kuliah :** Pemrograman Web 2
 
 ---
