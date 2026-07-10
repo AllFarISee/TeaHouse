@@ -4,6 +4,15 @@ TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas Ujian Ak
 
 ---
 
+## Profile
+
+**Nama :** Alfarisi Azhar
+**NIM :** 23552011180
+**Kelas :** TIF K 23 B
+**Mata Kuliah :** Pemrograman Web 2
+
+---
+
 ## Fitur
 
 ### Customer
@@ -76,7 +85,7 @@ TeaHouse
 
 ## Database
 
-Database menggunakan PostgreSQL dengan Prisma ORM.
+Database menggunakan PostgreSQL dengan Prisma ORM
 
 Relasi antar tabel:
 
@@ -249,14 +258,4 @@ http://localhost:5173
 
 ## Tujuan Aplikasi
 
-Aplikasi TeaHouse dibuat untuk mempermudah pengelolaan data produk teh dan kategori produk secara digital. Selain itu, aplikasi ini memberikan pengalaman bagi pengguna untuk melihat daftar produk dengan tampilan yang sederhana, responsif, dan mudah digunakan.
-
----
-
-## Developer
-
-**Nama :** Alfarisi Azhar
-
-**Mata Kuliah :** Pemrograman Web 2
-
-**Tahun :** 2026
+Aplikasi TeaHouse dibuat untuk mempermudah pengelolaan data produk teh dan kategori produk secara digital. Selain itu, aplikasi ini memberikan pengalaman bagi pengguna untuk melihat daftar produk dengan tampilan yang sederhana, responsif, dan mudah digunakan
