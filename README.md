@@ -1,10 +1,10 @@
-# 🍵 TeaHouse - Full Stack Web Application
+# TeaHouse - Full Stack Web Application
 
-TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas akhir mata kuliah **Pemrograman Web 2**. Aplikasi ini merupakan sistem manajemen toko teh (*Tea House*) yang memungkinkan pengguna melihat daftar produk teh, sedangkan admin dapat mengelola kategori dan produk secara lengkap melalui dashboard.
+TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas Ujian Akhir Semester mata kuliah **Pemrograman Web 2**. Aplikasi ini merupakan sistem manajemen toko teh (*Tea House*) yang memungkinkan pengguna melihat daftar produk teh, sedangkan admin dapat mengelola kategori dan produk secara lengkap melalui dashboard
 
 ---
 
-## 📌 Fitur
+## Fitur
 
 ### Customer
 
@@ -22,7 +22,7 @@ TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas akhir ma
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 ### Frontend
 
@@ -45,7 +45,7 @@ TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas akhir ma
 
 ---
 
-## 📂 Struktur Project
+## Struktur Project
 
 ```
 TeaHouse
@@ -74,7 +74,7 @@ TeaHouse
 
 ---
 
-## 🗄 Database
+## Database
 
 Database menggunakan PostgreSQL dengan Prisma ORM.
 
@@ -109,7 +109,7 @@ Category
 
 ---
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### 1. Clone Repository
 
@@ -183,7 +183,7 @@ http://localhost:5173
 
 ---
 
-## 📡 API Endpoint
+## API Endpoint
 
 ### Category
 
@@ -209,11 +209,17 @@ http://localhost:5173
 
 ---
 
-## 📷 Screenshot
+## Screenshot
 
 ### Landing Page
 
-> Tambahkan screenshot halaman Home.
+<img width="670" height="442" alt="Main Page" src="https://github.com/user-attachments/assets/2c2abdac-324e-4975-aa2e-04effab32096" />
+
+<img width="670" height="443" alt="Main Page 2" src="https://github.com/user-attachments/assets/44d231c5-8dd4-40cc-94dc-336a7cdac8a9" />
+
+<img width="671" height="440" alt="Main Page 3" src="https://github.com/user-attachments/assets/4c610158-9003-4673-8054-ecdce0f089fd" />
+
+
 
 ---
 
