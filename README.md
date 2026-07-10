@@ -92,14 +92,6 @@ Database menggunakan PostgreSQL dengan Prisma ORM
 
 Relasi antar tabel:
 
-```
-Category
-    │
-    │ 1
-    │
-    └──────────< Product
-```
-
 ### Tabel Category
 
 | Field | Type |
