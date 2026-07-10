@@ -1,4 +1,4 @@
-# TeaHouse - Full Stack Web Application
+# TeaHouse - Full Stack Web CRUD Application
 
 TeaHouse adalah aplikasi **Full-Stack Web** yang dibangun sebagai tugas Ujian Akhir Semester mata kuliah **Pemrograman Web 2**. Aplikasi ini merupakan sistem manajemen toko teh (*Tea House*) yang memungkinkan pengguna melihat daftar produk teh, sedangkan admin dapat mengelola kategori dan produk secara lengkap melalui dashboard
 
